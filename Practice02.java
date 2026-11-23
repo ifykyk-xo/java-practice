@@ -2,7 +2,7 @@ import org.w3c.dom.ls.LSOutput;
 
 import java.sql.SQLOutput;
 
-public class Main {
+public class Practice02 {
     public static void main(String[] args) {
 
 

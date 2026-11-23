@@ -1,4 +1,4 @@
-public class Main {
+public class Task2WarehouseInventory {
     public static void main(String[] args) {
 
         // Завдання 2
