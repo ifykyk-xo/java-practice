@@ -17,3 +17,4 @@
 | [Task2QuadraticEquation.java](Task2QuadraticEquation.java) | Задание 2 — квадратное уравнение |
 | [Task2BankingHierarchy.java](Task2BankingHierarchy.java) | Задание 2 — банковские счета (наследование) |
 | [Task2WorkstationConfigurator.java](Task2WorkstationConfigurator.java) | Задание 2 — конфигуратор ПК |
+| [Task2SmartPaymentAndAuditGateway.java](Task2SmartPaymentAndAuditGateway.java) | Задание 2 — платёжный шлюз и аудит (интерфейсы, полиморфизм) |
